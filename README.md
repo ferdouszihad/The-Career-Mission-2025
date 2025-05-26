@@ -50,6 +50,14 @@ To help you craft the perfect UI, we’ve provided:
 
 ---
 
+## 🚩 What to Submit  
+
+- Your Code Repository Link 
+- Your Live Link 
+- Submit the Form on Bootcamp Website with All the fields  
+
+---
+
 ## 🖼️ Sample Preview  
 
 Here’s a sneak peek of what you’re going to build:  
