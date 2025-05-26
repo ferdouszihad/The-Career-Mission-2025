@@ -46,7 +46,7 @@ To help you craft the perfect UI, we’ve provided:
 ## ⏰ Deadline  
 
 📅 **Assignment-01 Deadline:**  
-🕛 **11:59 PM** (Don't be late 😅)
+🕛 **May 27,  11:59 PM** (Don't be late 🚩)
 
 ---
 
